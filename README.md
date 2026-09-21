@@ -44,7 +44,7 @@ Ambos archivos contienen la misma información sustantiva. La versión CSV prese
 
 ## Contexto de investigación
 
-Esta base de datos fue creada en el marco de una investigación sobre la presencia y el impacto mediático digital de los Bienes de Interés Cultural de la provincia de Ávila en Google News, dirigida a identificar patrones de visibilidad, internacionalización y contextos temáticos asociados.
+Esta base de datos fue creada en el marco de una investigación sobre la presencia y la huella informativa digital de los Bienes de Interés Cultural de la provincia de Ávila en Google News, dirigida a identificar patrones de visibilidad, internacionalización y contextos temáticos asociados.
 
 La inclusión de los términos de búsqueda responde específicamente a esta finalidad investigadora y permite documentar la estrategia utilizada para la posterior recuperación de noticias relacionadas con cada bien.
 
@@ -56,11 +56,3 @@ La inclusión de los términos de búsqueda responde específicamente a esta fin
 ## Financiación
 
 Esta base de datos ha sido elaborada en el marco de un proyecto financiado por la Diputación de Ávila mediante las Ayudas a la investigación sobre temas abulenses, convocatoria 2025.
-
-## Licencia
-
-La licencia aplicable a este conjunto de datos se indicará en la versión depositada y publicada del repositorio.
-
-## Citación
-
-La referencia bibliográfica y el DOI permanente de este conjunto de datos se incorporarán tras su depósito y publicación en Zenodo.
